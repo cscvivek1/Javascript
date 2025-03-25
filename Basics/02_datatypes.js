@@ -36,3 +36,6 @@ const myFunction = function(){
     
 }
 myFunction();
+
+// console.log(5 == "5");  // true  (type conversion happens)
+// console.log(5 === "5"); // false (different types)
