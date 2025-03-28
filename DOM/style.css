@@ -1,0 +1,30 @@
+/* h1{
+    color: red;
+}
+p{
+    align-content: end;
+    background-color: blue;
+    width: 500px;
+}
+
+#heading2{
+    color: palevioletred;
+} */
+.one{
+    color: red;
+   
+}
+body{
+    background-color:greenyellow;
+    
+}
+.div {
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    background-color: mediumaquamarine;
+    /* margin: 10px auto; // Centers the divs horizontally
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
